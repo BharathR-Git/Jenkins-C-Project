@@ -20,7 +20,7 @@ prime.o: prime.c
         gcc -c prime.c
 
 palindrome.o: palindrome.c
-        gcc -c palimdrome.c
+        gcc -c palindrome.c
 
 sort.o: sort.c
         gcc -c sort.c
